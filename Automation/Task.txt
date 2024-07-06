@@ -1,0 +1,3 @@
+Task 1 - Mail sending
+Task 2 - Happy BirthDay using email (csv)
+Task 3 - Happy BirthDay using whatsapp api (csv)
